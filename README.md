@@ -1,1 +1,2 @@
-#AFRI_X
+#Afri-X
+Techno-Solutions
