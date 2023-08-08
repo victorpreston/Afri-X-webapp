@@ -46,13 +46,13 @@ i {
    transition: .4s;
    span {
       font-weight: 500;
-      color: #fb383b;
+      color: #2d337c;
       font-size: 20px;
       position: relative;
       top: -16px;
    }
    .fal {
-      background: #fb383b;
+      background: #2d337c;
       position: relative;
       overflow: hidden;
       font-weight: 500;
@@ -116,7 +116,7 @@ i {
    left: 0px;
    width: 100%;
    height: 99.9%;
-   background: #fb383b;
+   background: #2d337c;
    z-index: -2;
 }
 .layer-btn::before {
@@ -177,7 +177,7 @@ i {
 .custom-select:focus,
 .form-control:focus {
   box-shadow: none;
-  border: 1px solid #fb383b;
+  border: 1px solid #2d337c;
 }
 // .input-group {
 //   .input-group-text {
@@ -233,10 +233,10 @@ i {
    }
    .nav-item:hover {
       .nav-link {
-         color: #fb383b;
+         color: #2d337c;
       }
       .fa-angle-down {
-         color: #fb383b;
+         color: #2d337c;
       }
    }
    .dropdown {
@@ -275,7 +275,7 @@ i {
          }
          .dropdown-item:before {
             content: "";
-            background: #fb383b;
+            background: #2d337c;
             height: 1px;
             width: 0px;
             position: absolute;
@@ -290,7 +290,7 @@ i {
             background: #f5f5f5;
             span {
                margin-left: 15px;
-               color: #fb383b;
+               color: #2d337c;
             }
          }
       }
@@ -333,11 +333,11 @@ i {
    .dropdown-2:hover > .dropdown-item {
       background: #f5f5f5;
       .fal {
-         color: #fb383b;
+         color: #2d337c;
       }
       span {
          margin-left: 15px;
-         color: #fb383b;
+         color: #2d337c;
       }
    }
    .dropdown-2:hover > .dropdown-item:before {
@@ -450,7 +450,7 @@ i {
          transition: .4s;
       }
       button:hover {
-         background: #fb383b;
+         background: #2d337c;
          color: #fff;
       }
       .owl-prev {
@@ -506,11 +506,11 @@ i {
          color: #1d1e22;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       h4 {
-         color: #fb383b;
+         color: #2d337c;
          margin-bottom: 30px;
       }
       p {
@@ -549,7 +549,7 @@ i {
    .img-box:before {
       content: "";
       position: absolute;
-      background: #fb383b;
+      background: #2d337c;
       top: 0;
       left: 0;
       height: 250px;
@@ -572,7 +572,7 @@ i {
             .fal {
                margin-right: 10px;
                font-weight: 500;
-               color: #fb383b;
+               color: #2d337c;
             }
          }
       }
@@ -617,7 +617,7 @@ i {
          color: #fff;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
@@ -667,7 +667,7 @@ i {
       }
    }
    .service-box:hover {
-      background: #fb383b;
+      background: #2d337c;
       .txt-area {
          h3 {
             color: #fff;
@@ -700,7 +700,7 @@ i {
          color: #1d1e22;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
    }
@@ -717,14 +717,14 @@ i {
          margin-right: 0;
       }
       span:hover {
-         color: #fb383b;
+         color: #2d337c;
       }
       span.active {
-         color: #fb383b;
+         color: #2d337c;
       }
       span::after {
          content: "";
-         background: #fb383b;
+         background: #2d337c;
          display: block;
          width: 0;
          height: 2px;
@@ -777,7 +777,7 @@ i {
             content: "";
             height: 2px;
             width: 50px;
-            background: #fb383b;
+            background: #2d337c;
             position: absolute;
             border-radius: 3px;
             bottom: 9px;
@@ -833,7 +833,7 @@ i {
             margin-bottom: 10px;
             color: #222429;
             i {
-               color: #fb383b;
+               color: #2d337c;
                width: 24px;
             }
             span {
@@ -842,7 +842,7 @@ i {
             }
             a {
                margin-left: 15px;
-               color: #fb383b;
+               color: #2d337c;
             }
          }
       }
@@ -870,7 +870,7 @@ i {
          color: #fff;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
@@ -896,7 +896,7 @@ i {
          transition: .4s;
       }
       h3 {
-         color: #fb383b;
+         color: #2d337c;
          font-weight: 500;
          margin-bottom: 30px;
          transition: .4s;
@@ -922,7 +922,7 @@ i {
       }
    }
    .pricing-box:hover {
-      background: #fb383b;
+      background: #2d337c;
       h4 {
          color: #1d1e22;
       }
@@ -935,7 +935,7 @@ i {
       .font-btn {
          .fal {
             background: #1d1e22;
-            color: #fb383b;
+            color: #2d337c;
          }
          span {
             color: #1d1e22;
@@ -971,7 +971,7 @@ i {
          color: #222429;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
@@ -1047,7 +1047,7 @@ i {
          height: 50px;
          // display: block;
          background: none;
-         background: #fb383b;
+         background: #2d337c;
          border-radius: 100px;
          transition: .4s;
       }
@@ -1106,7 +1106,7 @@ i {
          color: #222429;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
    }
@@ -1143,7 +1143,7 @@ i {
          color: #222429;
          margin-bottom: 15px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
@@ -1164,7 +1164,7 @@ i {
             .fal {
                margin-right: 10px;
                font-weight: 500;
-               color: #fb383b;
+               color: #2d337c;
             }
          }
       }
@@ -1303,7 +1303,7 @@ i {
          color: #1d1e22;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
    }
@@ -1332,7 +1332,7 @@ i {
             }
             span {
                font-size: 18px;
-               color: #fb383b;
+               color: #2d337c;
                transition: .4s;
             }
          }
@@ -1362,7 +1362,7 @@ i {
       }
    }
    .testimonial-box:hover {
-      background: #fb383b;
+      background: #2d337c;
       .txt {
          span {
             color: #333;
@@ -1389,7 +1389,7 @@ i {
          width: 10px !important;
          height: 10px !important;
          background: none;
-         border: 1px solid #fb383b;
+         border: 1px solid #2d337c;
          border-radius: 20px;
          transition: .4s;
          margin: 0px 5px;
@@ -1399,7 +1399,7 @@ i {
          outline: 0px auto -webkit-focus-ring-color !important;
       }
       .owl-dot.active {
-         background: #fb383b;
+         background: #2d337c;
          // width: 20px !important;
       }
    }
@@ -1466,7 +1466,7 @@ i {
          color: #222429;
          margin-bottom: 30px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
@@ -1481,7 +1481,7 @@ i {
       align-items: center;
       margin-bottom: 20px;
       .icon {
-         background: #fb383b;
+         background: #2d337c;
          height: 60px;
          width: 60px;
          border-radius: 100px;
@@ -1517,7 +1517,7 @@ i {
          }
          .form-control:focus {
            box-shadow: none;
-           border: 1px solid #fb383b;
+           border: 1px solid #2d337c;
          }
          input {
             height: 62px;
@@ -1532,7 +1532,7 @@ i {
 // ----------------------------------------
 #contactArea {
    .contact-box {
-      background: #fb383b;
+      background: #2d337c;
       border-radius: 10px;
       padding: 80px;
       position: relative;
@@ -1607,7 +1607,7 @@ i {
             }
          }
          a:hover {
-            background: #fb383b;
+            background: #2d337c;
             .fab {
                color: #000;
             }
@@ -1644,7 +1644,7 @@ i {
          .icon {
             width: 30px;
             .fal {
-               color: #fb383b;
+               color: #2d337c;
             }
          }
          .txt {
@@ -1680,14 +1680,14 @@ i {
             }
             .form-control:focus {
               box-shadow: none;
-              border: 1px solid #fb383b;
+              border: 1px solid #2d337c;
             }
             input {
                height: 62px;
             }
          }
          .btn {
-            background: #fb383b;
+            background: #2d337c;
             position: absolute;
             top: 8px;
             right: 8px;
@@ -1703,7 +1703,7 @@ i {
          .btn:hover {
             background: #fff;
             .fal {
-               color: #fb383b;
+               color: #2d337c;
             }
          }
       }
@@ -1753,18 +1753,18 @@ i {
          color: #fff;
          margin-bottom: 15px;
          span {
-            color: #fb383b;
+            color: #2d337c;
          }
       }
       p {
-         color: #fb383b;
+         color: #2d337c;
          a {
             color: #fff;
             text-decoration: none;
             transition: .4s;
          }
          a:hover {
-            color: #fb383b;
+            color: #2d337c;
          }
          span {
             color: #fff;
